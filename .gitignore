@@ -1,0 +1,8 @@
+#ignore folder log
+log/
+
+#ignore file log dengan exstension .backup
+*backup
+
+#ignore file 
+scret.txt
