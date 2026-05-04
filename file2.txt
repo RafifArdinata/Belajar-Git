@@ -1,1 +1,1 @@
-git merge feature/2
+git add file2.txt
